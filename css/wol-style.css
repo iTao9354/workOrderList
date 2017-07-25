@@ -1,0 +1,58 @@
+/*
+* @Author: Administrator
+* @Date:   2016-12-16 15:53:31
+* @Last Modified by:   Administrator
+* @Last Modified time: 2016-12-16 17:20:59
+*/
+.wol-demand-container {
+	width: 18.75rem;
+	height: 100%;
+	padding-bottom: .925rem;
+}
+.wol-demand-wrapper {
+	width: 17.75rem;
+	margin: 0 auto;
+}
+.wol-demand-list {
+	width: 100%;
+	margin-top: .5rem;
+	border: 1px solid #eee;
+}
+.wold-title {
+	width: calc(100% - .6rem);
+	height: 2.25rem;
+	line-height: 2.25rem;
+	font-size: .7rem;
+	color: #333;
+	border-bottom: 1px solid #eee;
+	padding-left: .6rem;
+	background: #fff;
+}
+.wold-content {
+	width: 100%;
+	height: 2.95rem;
+	border-bottom: 1px solid #eee;
+	background: #fff;
+}
+.wold-content li {
+	float: left;
+	width: 33.3%;
+	/* height: 100%; */
+	text-align: center;
+	padding: .5rem 0;
+}
+.wold-con-tit {
+	font-size: .7rem;
+	color: #e01a1b;
+}
+.wold-content li > span {
+	font-size: .6rem;
+}
+.wold-info {
+	padding: .35rem .6rem;
+	background: #fafcff;
+}
+.wold-info p {
+	font-size: .6rem;
+	line-height: 1rem;
+}
